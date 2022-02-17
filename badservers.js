@@ -123,6 +123,7 @@ const badservers = {
   '879780167327834123': 'CIPHER CORPORATION',
   '913811811168563251': 'Official GCC Piskorc',
   '922925974599909407': 'dareku`s gen',
+  '906606305681211463': 'FUCK-FIVEM New',
   /* Leaking Discords */
   '794977495518019604': 'Arena Leaks',
   '807213432860180480': 'Lewix FiveM Leaks',
